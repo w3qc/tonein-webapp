@@ -1,44 +1,45 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ToneIn-webapp
 
-## Available Scripts
+ToneIn is an community-based application where people can establish healthier new relationship with unknown ones and at the same time keep their familiar circle close.
 
-In the project directory, you can run:
+Nowadays varieties of social medias, SNS sites and messaging apps all failed to bring people closer, but instead, the prosperity of those apps give birth to serials of new 'monsters', such as 'cyber-mobs'，people just keep posting toxic comments or texts online freely and those platforms or apps did very little to regulate.
 
-### `yarn start`
+We believe that the fundamental of a healthy connect should be based on heathy community and that's what ToneIn is all about, like what it's meant by Chinese, "synchronize our voices"
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+It's pretty diffcult for us to made up mind to initialize this project for all sorts of different reasons, but those two things below inspired and made up our minds:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+ - [COVID-19](https://en.wikipedia.org/wiki/COVID-19_pandemic) globally spreads through a very localized community back in Wuhan(where I spent 4 years earning my bachelor's degree):
 
-### `yarn test`
+    - how should we communicate to each other so that we can responde to things like that ASAP?
+    - who should we believe or at least gain a peace of mind to figure out what to do next, before there is any data to actually told us what to do
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ - [Reckful](https://twitter.com/byron) suicided in his apartment because of major depression:
 
-### `yarn build`
+    - what can we actually do to stop the 'cyber-mob' and those toxic behavior, systematically?(I put very little faith in human beings regulate themselves, FYI)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    - how can we really find someone or groups that deeply understand what us self are expericing and willing to give the helping hand or if there's not one out there, one can easily build one.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Tools/Libraries we use(FrontEnd):
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [Material-ui](https://material-ui.com/)
+- [TinyColor2](https://github.com/bgrins/TinyColor)
+- [React-hook-form](https://react-hook-form.com)
+- [create-react-app](https://create-react-app.dev)
+- [axios]
+- [parse-link-header]
 
-### `yarn eject`
+## Docs&References:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [React & Typescript-cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [Redux/toolkit](https://redux-toolkit.js.org/)
+- [Awesome React](https://github.com/enaqx/awesome-react)
+- [Understanding TypeScript’s type notation](https://2ality.com/2018/04/type-notation-typescript.html)
+- [Typescript](https://github.com/microsoft/TypeScript)
+- [Typescript HandBook](https://www.typescriptlang.org/docs/handbook/)
+- [TypeScript and React](https://fettblog.eu/typescript-react/getting-started/)
+- [TypeScript Playground](https://www.typescriptlang.org/play#)
+- [关于async/await-1](http://www.ruanyifeng.com/blog/2015/05/async.html)
+- [关于async/await-2](https://segmentfault.com/a/1190000007535316)
+- [Javascript-1](https://javascript.info/)
+- [Javascript-2](https://github.com/getify/You-Dont-Know-JS)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
