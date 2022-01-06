@@ -21,7 +21,7 @@
     "@types/webpack-env": "^1.15.2",
     "axios": "^0.19.2",
     "http-proxy-middleware": "^1.0.4",
-    "parse-link-header": "^1.0.1",
+    "parse-link-header": "^2.0.0",
     "qs": "^6.9.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
